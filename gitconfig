@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = daniel.vanzato2@gmail.com
+	name = daniel vanzato
